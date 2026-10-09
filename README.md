@@ -36,5 +36,5 @@ When I'm not writing Python scripts or designing dashboards, I treat my gym rout
 
 
 ### 📫 Let's Connect
-*   **LinkedIn:** [Insert LinkedIn Profile URL]
+*   **LinkedIn:** [https://www.linkedin.com/in/mohamed-ahmed-027959442]
 *   **Email:** [muhammed.abdelrahman.ahmed@gmail.com]
