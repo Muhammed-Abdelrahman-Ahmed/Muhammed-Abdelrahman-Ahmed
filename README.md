@@ -38,3 +38,20 @@ When I'm not writing Python scripts or designing dashboards, I treat my gym rout
 ### 📫 Let's Connect
 *   **LinkedIn:** [https://www.linkedin.com/in/mohamed-ahmed-027959442]
 *   **Email:** [muhammed.abdelrahman.ahmed@gmail.com]
+
+
+
+### 📊 Excel & Data Modeling Portfolio
+A collection of end-to-end data analysis projects demonstrating my expertise in ETL, relational data modeling, and UI/UX-driven dashboard design, strictly utilizing **Microsoft Excel (Power Query & Power Pivot)**:
+
+*   🔗 [**Coffee-Shop-Orders-Data**](https://github.com/Muhammed-Abdelrahman-Ahmed/Coffee-Shop-Orders-Data) 
+- *An end-to-end Excel project analyzing coffee sales and profitability from 2019 to 2022 through a dynamic, interactive dashboard.*
+- 
+*   🔗 [**E-Commerce-Analysis-Dashboard**](https://github.com/Muhammed-Abdelrahman-Ahmed/E-Commerce-Analysis-Dashboard) 
+- *A dual-dashboard project designed in a 9:16 aspect ratio, delivering both high-level executive metrics and detailed operational insights.*
+- 
+*   🔗 [**Adventure-Works-2022**](https://github.com/Muhammed-Abdelrahman-Ahmed/Adventure-Works-2022) 
+- *A complex analysis of a 7-file dataset featuring a relational data model to track sales team performance and product trends.*
+- 
+*   🔗 [**Business-Data-Set-Dashboard**](https://github.com/Muhammed-Abdelrahman-Ahmed/Business-Data-Set-Dashboard)
+- *A 16:9 desktop dual-dashboard diagnostic project uncovering the root causes of order returns and identifying key profitability drivers.*
